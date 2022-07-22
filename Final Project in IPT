@@ -1,0 +1,931 @@
+         "ACTIVITY 2"
+
+<!DOCTYPE html>
+<html>
+<head>
+<title> Second activity-Anguay, Kristel Angeline DL.</title>
+</head>
+<body background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlKQNF_Hv56Fixw1VFeefKGbw0M3AKcJVwg&usqp=CAU" style="background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%;">
+<center><h1 style="border:3px solid #E3BEC6;color:#00092C;">MY SECOND ACTIVITY</h1>
+<center><h1 style="border-bottom:2px solid #E3CAA5;border-top:2px solid #E3CAA5;color:#AD8B73;"><b>Good Day!</b> Let's try  <b> THE HTML PRACTICE</b></h1>
+<center>
+<h2 style="color:#9AD0EC;display:inline-block; border-bottom:2px solid #9AD0EC;">TIKTOK</h2>
+<h3 style="color:#9AD0EC;">Napili ko ang website na ito, dahil isa ito sa nagiging libangan ko sa tuwing akoy naboboring at maaari mo din pagkakitaan ang website na ito kong ikaw ay matyaga at magaling magisip ng mga content, maaari ka ding matuto ng sayaw kanta at iba kong ito ang hilig mo.  </h3>
+</center>
+<center>
+<h2 style="color:#BE8C63;display:inline-block; border-bottom:2px solid #BE8C63;">MESSENGER</h2>
+<h3 style="color:#BE8C63;">Napili ko itong website na ito dahil napakalaking tulong neto lalo na ngayon sa panahon ng pandemya dating nakapahirap makipagcommunicate is nagagawa na natin sa pamamagitan ng video calls at chat lang at din malaki ang ambag neto sa mga studyante sapagkat nagiging daan ito upang mabilis naming nalalaman ang mga usapan patungkol sa paaralan sa pagbuo ng gc at iba pa. nagiging mas active din makipagparticipate kasi kahit minsan walang load nakakapagchat padin. </h3>
+</center>
+<center>
+<h2 style="color:#A97155;display:inline-block; border-bottom:2px solid #A97155;">TWITTER</h2>
+<h3 style="color:#A97155;">Napili ko itong site nato sapagkat dito pwede kang maglabas ng mga rants and emote mo sa buhay ng walang nangingielam and then nakakalibang din, bukod don makakasagap ka din ng mga chismiss whahshsh charrot makakasagap ma ng ga news na hindi mo napapabod sa tv dahil nga puro phone lang ang gamit ngayon ng mga kabataan.</h3>
+</center>
+<center>
+<h2 style="color:#F0A500;display:inline-block; border-bottom:2px solid #F0A500;">FACEBOOK</h2>
+<h3 style="color:#F0A500;">Ang Facebook naman po kaya ko napili dahil kilala ito na talaga namang libangan ng mga kabataan ngayon at isa ito sa mga palaging ginagamit ng mga millenials hndi lang don maging sa mga matatanda din kilala ito na nagbibigay aliw sapagkat maram syang features and kahit sa facebook ay makakanuod kana ng mga funny videos. </h3>
+</center>
+<center>
+<h2 style="color:#E3BEC6;display:inline-block; border-bottom:2px solid #E3BEC6;">INSTAGRAM</h2>
+<h3 style="color:#E3BEC6;">Napili ko instagram dahil magaganda yubg features nya lalo na yung filter sa pictures then pwedeng pwede kang maiipagcommunicate sa mga artist sapagkat ito yung kadalasang ginagamiy ng artista para miipagcommunicate yung mga my idols keme, nakakapagbigay aliw din to dahil makakanuod ka din ng mga videos and updated news. </h3>
+</center>
+<center><h1 style="border-bottom:2px solid gray;"></h1>
+<form>
+<center>
+<table border="2" width="250px" height="auto">
+  <tbody><tr>
+    <th rowspan="6" style="color:#CC9544;">SEARCH</th>
+    <th colspan="2" style="color:#CC9544;">BROWSE</th>
+    <th style="color:#CC9544;">WEBSITE</th>
+	<th style="color:#CC9544;">LINKS</th>  
+</tr>
+<tr>
+    <td style="color:#CC9544;">GOOGLE</td>
+    <td style="color:#CC9544;">FIREFOX</td>
+ <td style="color:#CC9544;">Tiktok</td>
+ <td><a style="color:A3423C;" href="https://www.tiktok.com/" "="" target="_blank">https://www.tiktok.com/</a></td>
+  </tr>
+  <tr>
+    <td style="color:#CC9544;">GOOGLE</td>
+    <td style="color:#CC9544;">FIREFOX</td>
+ <td style="color:#CC9544;">Messenger</td>
+ <td> <a style="color:A3423C;" href="https://www.messenger.com" "="" target="_blank">https://www.messenger.com</a></td>
+  </tr>
+  <tr>
+    <td style="color:#CC9544;">GOOGLE</td>
+    <td style="color:#CC9544;">FIREFOX</td>
+ <td style="color:#CC9544;">Twitter</td>
+ <td><a style="color:A3423C;" href="https://mobile.twitter.com/" "="" target="_blank">https://mobile.twitter.com/</a></td>
+  </tr>
+  <tr>
+    <td style="color:#CC9544;">GOOGLE</td>
+    <td style="color:#CC9544;">FIREFOX</td>
+ <td style="color:#CC9544;">Facebook</td>
+ <td><a style="color:A3423C;" href="https://free.facebook.com/" "="" target="_blank">https://free.facebook.com/</a></td>
+  </tr>
+ <tr>
+    <td style="color:#CC9544;">GOOGLE</td>
+    <td style="color:#CC9544;">FIREFOX</td>
+ <td style="color:#CC9544;">Instagram</td>
+ <td><a style="color:A3423C;" href="https://www.instagram.com/" "="" target="_blank">https://www.instagram.com/</a></td>
+  </tr>
+</tbody>
+</table>
+<center>""
+
+         "ACTIVITY 3"
+
+<!DOCTYPE html>
+<head>
+<title></title>
+<link rel="stylesheet" href="style.css">
+</head>
+ <center>
+ <h1>My 3nd Activity</h1>
+ <h3>Good Day! Let's try  THE CSS PRACTICE</h3>
+ <p>
+ <h2><a href="https://free.facebook.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAvZIJD3QgMuXw7_I2ssVr9QrLU5KcbiBDw&usqp=CAU" height=75px></a>
+ <h4>Ang Facebook naman po kaya ko napili dahil kilala ito na talaga namang libangan ng mga kabataan ngayon at isa ito sa mga palaging ginagamit ng mga millenials hndi lang don maging sa mga matatanda din kilala ito na nagbibigay aliw sapagkat maram syang features and kahit sa facebook ay makakanuod kana ng mga funny videos.
+ </p>
+ </h4>
+ <h2><a href="https://www.instagram.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qLnTSTzpsF4DwvcC1hftuhT1eH4YD5_y4A&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko instagram dahil magaganda yubg features nya lalo na yung filter sa pictures then pwedeng pwede kang maiipagcommunicate sa mga artist sapagkat ito yung kadalasang ginagamiy ng artista para miipagcommunicate yung mga my idols keme, nakakapagbigay aliw din to dahil makakanuod ka din ng mga videos and updated news.
+ </p>
+ </h4>
+ <h2><a href="https://mobile.twitter.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0yqQC-fzZQGbGl4vxPJGX40BzUCTf00t2Hg&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko itong site nato sapagkat dito pwede kang maglabas ng mga rants and emote mo sa buhay ng walang nangingielam and then nakakalibang din, bukod don makakasagap ka din ng mga chismiss whahshsh charrot makakasagap ma ng ga news na hindi mo napapabod sa tv dahil nga puro phone lang ang gamit ngayon ng mga kabataan.
+ </p>
+ </h4>
+ <h2><a href="https://www.messenger.com"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPecP2135fYm9K_wGD_LKpsN8pVgQRB0pww&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko itong website na ito dahil napakalaking tulong neto lalo na ngayon sa panahon ng pandemya dating nakapahirap makipagcommunicate is nagagawa na natin sa pamamagitan ng video calls at chat lang at din malaki ang ambag neto sa mga studyante sapagkat nagiging daan ito upang mabilis naming nalalaman ang mga usapan patungkol sa paaralan sa pagbuo ng gc at iba pa. nagiging mas active din makipagparticipate kasi kahit minsan walang load nakakapagchat padin.
+ </p>
+ </h4>
+ <h2><a href="https://www.tiktok.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdB-z7cBjh0cR6dJslVojtxw9daYW5QAE-Q&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko ang website na ito, dahil isa ito sa nagiging libangan ko sa tuwing akoy naboboring at maaari mo din pagkakitaan ang website na ito kong ikaw ay matyaga at magaling magisip ng mga content, maaari ka ding matuto ng sayaw kanta at iba kong ito ang hilig mo.
+ </p>
+ </h4>
+ </center>
+ 
+ <a href="home.html">
+ <style ="></style>
+ <button type="button" class="button">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDHs7n-RFRjBw32ZVumdwcGhcDvDM4AxwTQ&usqp=CAU" alt="user button"height=50px>
+ <span class="button_icon">
+ </span>
+ </button>
+ </a>
+ </body>
+ </html>
+
+         "ACTIVITY 4"
+
+<!DOCTYPE html>
+<head>
+<title></title>
+<link rel="stylesheet" href="style.css">
+</head>
+ <center>
+ <h1>My 3nd Activity</h1>
+ <h3>Good Day! Let's try  THE CSS PRACTICE</h3>
+ <p>
+ <h2><a href="https://free.facebook.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAvZIJD3QgMuXw7_I2ssVr9QrLU5KcbiBDw&usqp=CAU" height=75px></a>
+ <h4>Ang Facebook naman po kaya ko napili dahil kilala ito na talaga namang libangan ng mga kabataan ngayon at isa ito sa mga palaging ginagamit ng mga millenials hndi lang don maging sa mga matatanda din kilala ito na nagbibigay aliw sapagkat maram syang features and kahit sa facebook ay makakanuod kana ng mga funny videos.
+ </p>
+ </h4>
+ <h2><a href="https://www.instagram.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qLnTSTzpsF4DwvcC1hftuhT1eH4YD5_y4A&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko instagram dahil magaganda yubg features nya lalo na yung filter sa pictures then pwedeng pwede kang maiipagcommunicate sa mga artist sapagkat ito yung kadalasang ginagamiy ng artista para miipagcommunicate yung mga my idols keme, nakakapagbigay aliw din to dahil makakanuod ka din ng mga videos and updated news.
+ </p>
+ </h4>
+ <h2><a href="https://mobile.twitter.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0yqQC-fzZQGbGl4vxPJGX40BzUCTf00t2Hg&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko itong site nato sapagkat dito pwede kang maglabas ng mga rants and emote mo sa buhay ng walang nangingielam and then nakakalibang din, bukod don makakasagap ka din ng mga chismiss whahshsh charrot makakasagap ma ng ga news na hindi mo napapabod sa tv dahil nga puro phone lang ang gamit ngayon ng mga kabataan.
+ </p>
+ </h4>
+ <h2><a href="https://www.messenger.com"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPecP2135fYm9K_wGD_LKpsN8pVgQRB0pww&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko itong website na ito dahil napakalaking tulong neto lalo na ngayon sa panahon ng pandemya dating nakapahirap makipagcommunicate is nagagawa na natin sa pamamagitan ng video calls at chat lang at din malaki ang ambag neto sa mga studyante sapagkat nagiging daan ito upang mabilis naming nalalaman ang mga usapan patungkol sa paaralan sa pagbuo ng gc at iba pa. nagiging mas active din makipagparticipate kasi kahit minsan walang load nakakapagchat padin.
+ </p>
+ </h4>
+ <h2><a href="https://www.tiktok.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdB-z7cBjh0cR6dJslVojtxw9daYW5QAE-Q&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko ang website na ito, dahil isa ito sa nagiging libangan ko sa tuwing akoy naboboring at maaari mo din pagkakitaan ang website na ito kong ikaw ay matyaga at magaling magisip ng mga content, maaari ka ding matuto ng sayaw kanta at iba kong ito ang hilig mo.
+ </p>
+ </h4>
+ </center>
+ 
+ <a href="home.html">
+ <style ="></style>
+ <button type="button" class="button">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDHs7n-RFRjBw32ZVumdwcGhcDvDM4AxwTQ&usqp=CAU" alt="user button"height=50px>
+ <span class="button_icon">
+ </span>
+ </button>
+ </a>
+ </body>
+ </html>
+
+<! DOCTYPE html>
+<head>
+<title></title>
+<link rel="stylesheet"href="Ipt4.css">
+
+</head>
+<body>
+
+    <center>
+        <h1>MENU</h1>
+    
+    
+    <a href="3rdAct.html">
+        
+
+        <button type="button" class="button">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjwqk31LNusxBf9C2rcUsHDxZS-CDm5bzYuQ&usqp=CAU" alt="favorite button"height=50px>
+            </span>
+        
+        </button>
+    </a>
+        <p id="p1"><b>FAVORITES</b> Today I am going to share my website i always visit when im bored. In my whole day this is website i always visit because i feel enjoying and calm, it gives me happiness when im alone it save me to breakdown feels.</p>
+
+<a href="user.html">
+    
+    <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrHupqkhdkin6J2oFwNLa-aUBycdL5Qj0FA&usqp=CAU" alt="user button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+    <p id="p1"><b>USER's INFORMATION</b> •This is information, base from this you can know me a little, it gives you information if dont know me. </p>
+
+<a href="myfamily.html">
+    
+    <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXR0uLM1cOcXMVMo6oNDqgC_OJ8tKLGKHfM8z7gTGGGTv07W9kMnD7Wls&s=10" alt="family button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+    <p id="p1"><b>FAMILY</b> •I Introduce to you all one of the most Importante of my life is "MY FAMILY" </p>
+
+
+</center>
+    </body>
+    </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="Ipt4.css">
+</head>
+<body>
+
+        <h1 align="center" style="border: 3px solid rgb(59, 9, 0);">User Information</h1>
+     
+     <center>  
+    <nav> <img src="Kristel.jpeg" width="200" height="200" style="border: 5px;"> </nav>
+
+<h3 id="b1"> </h3>
+<p id="b2">KRISTEL ANGELINE DL. ANGUAY</p>
+<p id="b3">ILOVEMYSELF</p>
+<p id="b4">PLACE OF BIRTH:</p>
+  <p id="b5"><b>Quezon City</b></p>
+     <p id="b6">CIVIL STATUS:</p>
+ <p id="b7"><b>In a Relationship W/God</b></p>
+     <p id="b8">RELIGION:</p>
+    <p id="b9"><b>Roman catholic</b></p>
+   <p id="b10">CITIZENSHIP:</p>
+<p id="b11"><b>Filipino</b></p>
+</center>
+
+<a href="home.html">
+<style ="></style>
+<button type="button" class="button">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDHs7n-RFRjBw32ZVumdwcGhcDvDM4AxwTQ&usqp=CAU" alt="user button"height=50px>
+<span class="button_icon">
+</span>
+</button>
+</a>
+<p id="p1"><b>HOME</b> is if you want to view the menu which is you can see FAVORITES and USER, you can click home icon<</p>
+
+</body>
+</html>
+
+body 
+{
+    background-image: url('https://i.pinimg.com/originals/4f/2c/da/4f2cdaa5af92bb39594f673bef738755.gif');
+    background-size:cover;
+    background-attachment: fixed;
+  }
+  
+  h1{ 
+       background-color: rgb(231, 13,150);
+       color: #BE8C63;
+       font-style: normal;
+       Font-family: Calibre;
+       border-style: double;
+       capacity: 70%;
+       outline-color: transparent;
+       text-shadow: 1px 1px 2px rgb(5, 5, 5);
+       text-align: center;
+    }
+    #p1
+    {
+        color:yellow;
+        background-color:rgb(51, 51, 50);
+        font-style: bold;
+        
+    }
+     
+     nav:hover{transform:scale(.10);}
+    
+    #b2
+    {
+       color: white;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        align-content: center;
+        background-attachment: fixed;
+        animation: alternate-reverse;
+    }
+    
+    #b3
+    {
+    color: black;
+    position: relative;
+    background: white;
+    background-color:white;
+    width: 100pt;
+    border-radius: 5px;
+    background: rgba(5, 8, 1, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    margin: 20px;
+    padding: 10px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    align-content: center;
+    Animation: alternative-reverse;
+    
+    }
+    
+    #b4
+    {
+        color: rgb(231, 13,150);
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        align-content: center;
+        position: relative;
+        Animation: alternative-reverse;
+    }
+    
+    #b5
+    {
+        color: #CC9544;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        align-content: center;
+        position: relative;
+        Animation: alternative-reverse;
+    }
+    
+    #b6
+    {
+        color: rgb(231, 13,150);
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        align-content: center;
+        position: relative;
+        Animation: alternative-reverse;
+    }
+    
+    #b7
+    {
+        color: #CC9544;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        align-content: center;
+        position: relative;
+        Animation: alternative-reverse;
+    }
+    
+    #b8
+    {
+        color: rgb(231, 13,150);
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        align-content: center;
+        position: relative;
+        Animation: alternative-reverse;
+    }
+    
+    #b9
+    {
+        color: #CC9544;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        align-content: center;
+        position: relative;
+        Animation: alternative-reverse;
+    }
+    
+    #b10
+    {
+        color: rgb(231, 13,150);
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: italic;
+        align-content: center;
+        position: relative;
+        Animation: alternative-reverse;
+    }
+    
+    #b11
+    {
+        color: #CC9544;
+        position: relative;
+        background: white;
+        background-color:white;
+        width: 100pt;
+        border-radius: 5px;
+        background: rgba(5, 8, 1, 0.25);
+        box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.37);
+        backdrop-filter: blur(4px);
+        -webkit-backdrop-filter: blur(4px);
+        margin: 20px;
+        padding: 10px;
+        font-size: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: utalic;
+        align-content: center;
+       animation: alternative-reverse;  
+     }
+
+        "THE FAMILY"
+
+ <!DOCTYPE html>
+<head>
+<title></title>
+<link rel="stylesheet" href="style.css">
+</head>
+ <center>
+ <h1>My 2nd Activity</h1>
+ <h3>Good Day! Let's try  THE CSS PRACTICE</h3>
+ <p>
+ <h2><a href="https://free.facebook.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAvZIJD3QgMuXw7_I2ssVr9QrLU5KcbiBDw&usqp=CAU" height=75px></a>
+ <h4>Ang Facebook naman po kaya ko napili dahil kilala ito na talaga namang libangan ng mga kabataan ngayon at isa ito sa mga palaging ginagamit ng mga millenials hndi lang don maging sa mga matatanda din kilala ito na nagbibigay aliw sapagkat maram syang features and kahit sa facebook ay makakanuod kana ng mga funny videos.
+ </p>
+ </h4>
+ <h2><a href="https://www.instagram.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qLnTSTzpsF4DwvcC1hftuhT1eH4YD5_y4A&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko instagram dahil magaganda yubg features nya lalo na yung filter sa pictures then pwedeng pwede kang maiipagcommunicate sa mga artist sapagkat ito yung kadalasang ginagamiy ng artista para miipagcommunicate yung mga my idols keme, nakakapagbigay aliw din to dahil makakanuod ka din ng mga videos and updated news.
+ </p>
+ </h4>
+ <h2><a href="https://mobile.twitter.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0yqQC-fzZQGbGl4vxPJGX40BzUCTf00t2Hg&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko itong site nato sapagkat dito pwede kang maglabas ng mga rants and emote mo sa buhay ng walang nangingielam and then nakakalibang din, bukod don makakasagap ka din ng mga chismiss whahshsh charrot makakasagap ma ng ga news na hindi mo napapabod sa tv dahil nga puro phone lang ang gamit ngayon ng mga kabataan.
+ </p>
+ </h4>
+ <h2><a href="https://www.messenger.com"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPecP2135fYm9K_wGD_LKpsN8pVgQRB0pww&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko itong website na ito dahil napakalaking tulong neto lalo na ngayon sa panahon ng pandemya dating nakapahirap makipagcommunicate is nagagawa na natin sa pamamagitan ng video calls at chat lang at din malaki ang ambag neto sa mga studyante sapagkat nagiging daan ito upang mabilis naming nalalaman ang mga usapan patungkol sa paaralan sa pagbuo ng gc at iba pa. nagiging mas active din makipagparticipate kasi kahit minsan walang load nakakapagchat padin.
+ </p>
+ </h4>
+ <h2><a href="https://www.tiktok.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdB-z7cBjh0cR6dJslVojtxw9daYW5QAE-Q&usqp=CAU" height=75px></a>
+ <h4>
+ <p>
+ Napili ko ang website na ito, dahil isa ito sa nagiging libangan ko sa tuwing akoy naboboring at maaari mo din pagkakitaan ang website na ito kong ikaw ay matyaga at magaling magisip ng mga content, maaari ka ding matuto ng sayaw kanta at iba kong ito ang hilig mo.
+ </p>
+ </h4>
+ </center>
+ 
+ <a href="home.html">
+ <style ="></style>
+ <button type="button" class="button">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDHs7n-RFRjBw32ZVumdwcGhcDvDM4AxwTQ&usqp=CAU" alt="user button"height=50px>
+ <span class="button_icon">
+ </span>
+ </button>
+ </a>
+ </body>
+ </html>
+
+       "Dad"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="Ipt4.css">
+</head>
+<body>
+
+        <h1 align="center" style="border: 3px solid rgb(59, 9, 0);">User Information</h1>
+     
+     <center>  
+    <nav> <img src="pa.jpg" width="200" height="200" style="border: 5px;"> </nav>
+
+<h3 id="b1"> </h3>
+<p id="b2">ROEL ORTIZ FOLIENTE</p>
+<p id="b3">36 yrs old</p>
+<p id="b4">PLACE OF BIRTH:</p>
+  <p id="b5"><b>Quezon Province</b></p>
+     <p id="b6">RELATIONSHIP:</p>
+ <p id="b7"><b>Step Dad</b></p>
+     <p id="b8">RELIGION:</p>
+    <p id="b9"><b>Roman catholic</b></p>
+   <p id="b10">CITIZENSHIP:</p>
+<p id="b11"><b>Filipino</b></p>
+</center>
+
+<a href="myfamily.html">
+    
+    <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXR0uLM1cOcXMVMo6oNDqgC_OJ8tKLGKHfM8z7gTGGGTv07W9kMnD7Wls&s=10" alt="family button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+  
+</body>
+</html>
+
+       "Mom"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="Ipt4.css">
+</head>
+<body>
+
+        <h1 align="center" style="border: 3px solid rgb(59, 9, 0);">User Information</h1>
+     
+     <center>  
+    <nav> <img src="ma.jpg" width="200" height="200" style="border: 5px;"> </nav>
+
+<h3 id="b1"> </h3>
+<p id="b2">MARINEL VILLAROSA DE LARA</p>
+<p id="b3">42 yrs old</p>
+<p id="b4">PLACE OF BIRTH:</p>
+  <p id="b5"><b>Occidental Mindoro</b></p>
+     <p id="b6">RELATIONSHIP:</p>
+ <p id="b7"><b>Mommy</b></p>
+     <p id="b8">RELIGION:</p>
+    <p id="b9"><b>Roman catholic</b></p>
+   <p id="b10">CITIZENSHIP:</p>
+<p id="b11"><b>Filipino</b></p>
+</center>
+
+<a href="myfamily.html">
+    
+    <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXR0uLM1cOcXMVMo6oNDqgC_OJ8tKLGKHfM8z7gTGGGTv07W9kMnD7Wls&s=10" alt="family button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+  
+</body>
+</html>
+
+       "Kuya"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="Ipt4.css">
+</head>
+<body>
+
+        <h1 align="center" style="border: 3px solid rgb(59, 9, 0);">User Information</h1>
+     
+     <center>  
+    <nav> <img src="kuya.jpg" width="200" height="200" style="border: 5px;"> </nav>
+
+<h3 id="b1"> </h3>
+<p id="b2">PRINCE SHANE JEFFERSON DE LARA ANGUAY</p>
+<p id="b3">21 yrs old</p>
+<p id="b4">PLACE OF BIRTH:</p>
+  <p id="b5"><b>Quezon City</b></p>
+     <p id="b6">RELATIONSHIP:</p>
+ <p id="b7"><b>Brother</b></p>
+     <p id="b8">RELIGION:</p>
+    <p id="b9"><b>Roman catholic</b></p>
+   <p id="b10">CITIZENSHIP:</p>
+<p id="b11"><b>Filipino</b></p>
+</center>
+
+<a href="myfamily.html">
+    
+    <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXR0uLM1cOcXMVMo6oNDqgC_OJ8tKLGKHfM8z7gTGGGTv07W9kMnD7Wls&s=10" alt="family button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+  
+</body>
+</html>
+
+      "Me"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="Ipt4.css">
+</head>
+<body>
+
+        <h1 align="center" style="border: 3px solid rgb(59, 9, 0);">User Information</h1>
+     
+     <center>  
+    <nav> <img src="me.jpg" width="200" height="200" style="border: 5px;"> </nav>
+
+<h3 id="b1"> </h3>
+<p id="b2">KRISTEL ANGELINE DE LARA ANGUAY</p>
+<p id="b3">19 yrs old</p>
+<p id="b4">PLACE OF BIRTH:</p>
+  <p id="b5"><b>Quezon City</b></p>
+     <p id="b6">RELATIONSHIP:</p>
+ <p id="b7"><b>MY PRETTY SELF</b></p>
+     <p id="b8">RELIGION:</p>
+    <p id="b9"><b>Roman catholic</b></p>
+   <p id="b10">CITIZENSHIP:</p>
+<p id="b11"><b>Filipino</b></p>
+</center>
+
+<a href="myfamily.html">
+    
+    <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXR0uLM1cOcXMVMo6oNDqgC_OJ8tKLGKHfM8z7gTGGGTv07W9kMnD7Wls&s=10" alt="family button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+  
+</body>
+</html>
+
+      "Drew"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="Ipt4.css">
+</head>
+<body>
+
+        <h1 align="center" style="border: 3px solid rgb(59, 9, 0);">User Information</h1>
+     
+     <center>  
+    <nav> <img src="drew.jpg" width="200" height="200" style="border: 5px;"> </nav>
+
+<h3 id="b1"> </h3>
+<p id="b2">ANDREW DE LARA ANGUAY</p>
+<p id="b3">15 yrs old</p>
+<p id="b4">PLACE OF BIRTH:</p>
+  <p id="b5"><b>Quezon City</b></p>
+     <p id="b6">RELATIONSHIP:</p>
+ <p id="b7"><b>Young Brother</b></p>
+     <p id="b8">RELIGION:</p>
+    <p id="b9"><b>Roman catholic</b></p>
+   <p id="b10">CITIZENSHIP:</p>
+<p id="b11"><b>Filipino</b></p>
+</center>
+
+<a href="myfamily.html">
+    
+    <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXR0uLM1cOcXMVMo6oNDqgC_OJ8tKLGKHfM8z7gTGGGTv07W9kMnD7Wls&s=10" alt="family button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+  
+</body>
+</html>
+
+      "Pau"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="Ipt4.css">
+</head>
+<body>
+
+        <h1 align="center" style="border: 3px solid rgb(59, 9, 0);">User Information</h1>
+     
+     <center>  
+    <nav> <img src="paula.jpg" width="200" height="200" style="border: 5px;"> </nav>
+
+<h3 id="b1"> </h3>
+<p id="b2">PAULA BERNADETTE DELARA </p>
+<p id="b3">12 yrs old</p>
+<p id="b4">PLACE OF BIRTH:</p>
+  <p id="b5"><b>Quezon City</b></p>
+     <p id="b6">RELATIONSHIP:</p>
+ <p id="b7"><b>Young Sister</b></p>
+     <p id="b8">RELIGION:</p>
+    <p id="b9"><b>Roman catholic</b></p>
+   <p id="b10">CITIZENSHIP:</p>
+<p id="b11"><b>Filipino</b></p>
+</center>
+
+<a href="myfamily.html">
+    
+    <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXR0uLM1cOcXMVMo6oNDqgC_OJ8tKLGKHfM8z7gTGGGTv07W9kMnD7Wls&s=10" alt="family button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+  
+</body>
+</html>
+
+      "Ley"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="Ipt4.css">
+</head>
+<body>
+
+        <h1 align="center" style="border: 3px solid rgb(59, 9, 0);">User Information</h1>
+     
+     <center>  
+    <nav> <img src="ley.jpg" width="200" height="200" style="border: 5px;"> </nav>
+
+<h3 id="b1"> </h3>
+<p id="b2">CHRISTINE LEY DE LARA FOLIENTE</p>
+<p id="b3">8 yrs old</p>
+<p id="b4">PLACE OF BIRTH:</p>
+  <p id="b5"><b>Quezon City</b></p>
+     <p id="b6">RELATIONSHIP:</p>
+ <p id="b7"><b>Younger Sister</b></p>
+     <p id="b8">RELIGION:</p>
+    <p id="b9"><b>Roman catholic</b></p>
+   <p id="b10">CITIZENSHIP:</p>
+<p id="b11"><b>Filipino</b></p>
+</center>
+
+<a href="myfamily.html">
+    
+    <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXR0uLM1cOcXMVMo6oNDqgC_OJ8tKLGKHfM8z7gTGGGTv07W9kMnD7Wls&s=10" alt="family button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+  
+</body>
+</html>
+
+      "Baluna"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="Ipt4.css">
+</head>
+<body>
+
+        <h1 align="center" style="border: 3px solid rgb(59, 9, 0);">User Information</h1>
+     
+     <center>  
+    <nav> <img src="luna.jpg" width="200" height="200" style="border: 5px;"> </nav>
+
+<h3 id="b1"> </h3>
+<p id="b2">LUNA MARIELLE DE LARA FOLIENTE</p>
+<p id="b3">9 months old</p>
+<p id="b4">PLACE OF BIRTH:</p>
+  <p id="b5"><b>Rizal</b></p>
+     <p id="b6">RELATIONSHIP:</p>
+ <p id="b7"><b>litte sister</b></p>
+     <p id="b8">RELIGION:</p>
+    <p id="b9"><b>Roman catholic</b></p>
+   <p id="b10">CITIZENSHIP:</p>
+<p id="b11"><b>Filipino</b></p>
+</center>
+
+<a href="myfamily.html">
+    
+    <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXR0uLM1cOcXMVMo6oNDqgC_OJ8tKLGKHfM8z7gTGGGTv07W9kMnD7Wls&s=10" alt="family button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+  
+</body>
+</html>
+
+     "My Man"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title></title>
+   <link rel="stylesheet"href="Ipt4.css">
+</head>
+<body>
+
+        <h1 align="center" style="border: 3px solid rgb(59, 9, 0);">User Information</h1>
+     
+     <center>  
+    <nav> <img src="kyle.jpg" width="200" height="200" style="border: 5px;"> </nav>
+
+<h3 id="b1"> </h3>
+<p id="b2">CHRISTIAN KYLE DAQIUADO NARIO</p>
+<p id="b3">20 yrs old</p>
+<p id="b4">PLACE OF BIRTH:</p>
+  <p id="b5"><b>Rizal</b></p>
+     <p id="b6">RELATIONSHIP:</p>
+ <p id="b7"><b>MY MAN</b></p>
+     <p id="b8">RELIGION:</p>
+    <p id="b9"><b>Roman catholic</b></p>
+   <p id="b10">CITIZENSHIP:</p>
+<p id="b11"><b>Filipino</b></p>
+</center>
+
+<a href="myfamily.html">
+    
+    <button type="button" class="button">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXR0uLM1cOcXMVMo6oNDqgC_OJ8tKLGKHfM8z7gTGGGTv07W9kMnD7Wls&s=10" alt="family button"height=50px>
+        <span class="button_icon">
+
+        </span>
+    </button>
+</a>
+  
+</body>
+</html>
