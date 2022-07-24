@@ -68,9 +68,28 @@
  <td style="color:#CC9544;">Instagram</td>
  <td><a style="color:A3423C;" href="https://www.instagram.com/" "="" target="_blank">https://www.instagram.com/</a></td>
   </tr>
-</tbody>
+</body>
 </table>
-<center>""
+<center>
+<a href="home.html">
+   <style ="></style>
+   <button type="button" class="button">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDHs7n-RFRjBw32ZVumdwcGhcDvDM4AxwTQ&usqp=CAU" alt="user button"height=50px>
+   <span class="button_icon">
+   </span>
+   </button>
+   </a>
+   <a href="Final Project.html">
+   <style ="></style>
+   <button type="button" class="button">
+   <img src="fp.jpeg" alt="user button"height=50px>
+   <span class="button_icon">
+   </span>
+   </button>
+   </a>
+   </center>
+   </body>
+   </html>
 
          "ACTIVITY 3"
 
@@ -112,7 +131,7 @@
  </p>
  </h4>
  </center>
- 
+ <center>
  <a href="home.html">
  <style ="></style>
  <button type="button" class="button">
@@ -121,6 +140,15 @@
  </span>
  </button>
  </a>
+ <a href="Final Project.html">
+   <style ="></style>
+   <button type="button" class="button">
+   <img src="fp.jpeg" alt="user button"height=50px>
+   <span class="button_icon">
+   </span>
+   </button>
+   </a>
+   </center>
  </body>
  </html>
 
@@ -164,7 +192,7 @@
  </p>
  </h4>
  </center>
- 
+ <center>
  <a href="home.html">
  <style ="></style>
  <button type="button" class="button">
@@ -173,6 +201,15 @@
  </span>
  </button>
  </a>
+ <a href="Final Project.html">
+   <style ="></style>
+   <button type="button" class="button">
+   <img src="fp.jpeg" alt="user button"height=50px>
+   <span class="button_icon">
+   </span>
+   </button>
+   </a>
+   </center>
  </body>
  </html>
 
@@ -187,6 +224,16 @@
     <center>
         <h1>MENU</h1>
     
+    <a href="Second Activity.html">
+    
+    <button type="button" class="button">
+    <img src="kk.jpeg" alt="family button"height=50px>
+    <span class="button_icon">
+    
+    </span>
+    </button>
+    </a>
+    <p id="p1"><b>SECOND ACTIVITY</b>  </p>
     
     <a href="3rdAct.html">
         
@@ -221,7 +268,16 @@
 </a>
     <p id="p1"><b>FAMILY</b> •I Introduce to you all one of the most Importante of my life is "MY FAMILY" </p>
 
+<a href="Final Project.html">
+    
+    <button type="button" class="button">
+        <img src="fp.jpeg" alt="family button"height=50px>
+        <span class="button_icon">
 
+        </span>
+    </button>
+</a>
+    <p id="p1"><b>FINAL PROJECT IN IPT</b>  </p>
 </center>
     </body>
     </html>
@@ -512,55 +568,153 @@ body
 
         "THE FAMILY"
 
- <!DOCTYPE html>
+<! DOCTYPE html>
 <head>
 <title></title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet"href="Ipt4.css">
+
 </head>
- <center>
- <h1>My 2nd Activity</h1>
- <h3>Good Day! Let's try  THE CSS PRACTICE</h3>
- <p>
- <h2><a href="https://free.facebook.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAvZIJD3QgMuXw7_I2ssVr9QrLU5KcbiBDw&usqp=CAU" height=75px></a>
- <h4>Ang Facebook naman po kaya ko napili dahil kilala ito na talaga namang libangan ng mga kabataan ngayon at isa ito sa mga palaging ginagamit ng mga millenials hndi lang don maging sa mga matatanda din kilala ito na nagbibigay aliw sapagkat maram syang features and kahit sa facebook ay makakanuod kana ng mga funny videos.
- </p>
- </h4>
- <h2><a href="https://www.instagram.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_qLnTSTzpsF4DwvcC1hftuhT1eH4YD5_y4A&usqp=CAU" height=75px></a>
- <h4>
- <p>
- Napili ko instagram dahil magaganda yubg features nya lalo na yung filter sa pictures then pwedeng pwede kang maiipagcommunicate sa mga artist sapagkat ito yung kadalasang ginagamiy ng artista para miipagcommunicate yung mga my idols keme, nakakapagbigay aliw din to dahil makakanuod ka din ng mga videos and updated news.
- </p>
- </h4>
- <h2><a href="https://mobile.twitter.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0yqQC-fzZQGbGl4vxPJGX40BzUCTf00t2Hg&usqp=CAU" height=75px></a>
- <h4>
- <p>
- Napili ko itong site nato sapagkat dito pwede kang maglabas ng mga rants and emote mo sa buhay ng walang nangingielam and then nakakalibang din, bukod don makakasagap ka din ng mga chismiss whahshsh charrot makakasagap ma ng ga news na hindi mo napapabod sa tv dahil nga puro phone lang ang gamit ngayon ng mga kabataan.
- </p>
- </h4>
- <h2><a href="https://www.messenger.com"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPecP2135fYm9K_wGD_LKpsN8pVgQRB0pww&usqp=CAU" height=75px></a>
- <h4>
- <p>
- Napili ko itong website na ito dahil napakalaking tulong neto lalo na ngayon sa panahon ng pandemya dating nakapahirap makipagcommunicate is nagagawa na natin sa pamamagitan ng video calls at chat lang at din malaki ang ambag neto sa mga studyante sapagkat nagiging daan ito upang mabilis naming nalalaman ang mga usapan patungkol sa paaralan sa pagbuo ng gc at iba pa. nagiging mas active din makipagparticipate kasi kahit minsan walang load nakakapagchat padin.
- </p>
- </h4>
- <h2><a href="https://www.tiktok.com/"target=_blank><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdB-z7cBjh0cR6dJslVojtxw9daYW5QAE-Q&usqp=CAU" height=75px></a>
- <h4>
- <p>
- Napili ko ang website na ito, dahil isa ito sa nagiging libangan ko sa tuwing akoy naboboring at maaari mo din pagkakitaan ang website na ito kong ikaw ay matyaga at magaling magisip ng mga content, maaari ka ding matuto ng sayaw kanta at iba kong ito ang hilig mo.
- </p>
- </h4>
- </center>
- 
- <a href="home.html">
- <style ="></style>
- <button type="button" class="button">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDHs7n-RFRjBw32ZVumdwcGhcDvDM4AxwTQ&usqp=CAU" alt="user button"height=50px>
- <span class="button_icon">
- </span>
- </button>
- </a>
- </body>
- </html>
+<body>
+
+  <h1>MYFAMILY</h1>
+        <h1>IMPORTANT OF MY LIFE</h1>
+
+       <p id="p1">
+       <b><center><img src="pa.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+      <p id="p1"> This is My Father who handle all the financial prob of our family and give support for us to everything.
+       <a href="udad.html">
+       <button type="button" class="button">
+       <img src="icon.jpg" alt="See Profile button"height=15px>
+       <span class="button_icon">
+       </span>
+       </button>
+       </a>
+       </p>
+        </p>
+        
+       <p id="p1">
+        <b><center><img src="ma.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+        <p id="p1"> This is My Pretty Mother who support us and love us with all her heart and the way she knows.
+        <a href="umom.html">
+        <button type="button" class="button">
+        <img src="icon.jpg" alt="See Profile button"height=15px>
+        <span class="button_icon">
+        </span>
+        </button>
+        </a>
+        </p>
+        </p>
+        
+   <p id="p1">
+    <b><center><img src="kuya.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+    <p id="p1"> This is my Brother, the first born baby, he's kind, patient brother. he wants to be a criminology someday. 
+    <a href="kuya.html">
+    <button type="button" class="button">
+    <img src="icon.jpg" alt="See Profile button"height=15px>
+    <span class="button_icon">
+    </span>
+    </button>
+    </a>
+    </p>
+    </p>
+    
+    <p id="p1">
+    <b><center><img src="me.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+    <p id="p1"> Im the craziest daughter of my mom & dad, and also im the prettiest hahahah. i want to be successful someday.
+    <a href="me.html">
+    <button type="button" class="button">
+    <img src="icon.jpg" alt="See Profile button"height=15px>
+    <span class="button_icon">
+    </span>
+    </button>
+    </a>
+    </p>
+    </p>
+    
+    <p id="p1">
+    <b><center><img src="drew.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+    <p id="p1"> This is the 3th son. the always here if i needed he always follow my wants and he's super kind. he wants to be flight attendant soon.
+    <a href="drew.html">
+    <button type="button" class="button">
+    <img src="icon.jpg" alt="See Profile button"height=15px>
+    <span class="button_icon">
+    </span>
+    </button>
+    </a>
+    </p>
+    </p>
+    
+    <p id="p1">
+    <b><center><img src="paula.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+    <p id="p1"> This is the 4th. she is the naugthy one, and she loves going outside and make play to her barkada's.
+    <a href="pau.html">
+    <button type="button" class="button">
+    <img src="icon.jpg" alt="See Profile button"height=15px>
+    <span class="button_icon">
+    </span>
+    </button>
+    </a>
+    </p>
+    </p>
+    
+    <p id="p1">
+    <b><center><img src="ley.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+    <p id="p1"> this is the 5th. my step sister, but i love her. i love all of my siblings.
+    <a href="ley.html">
+    <button type="button" class="button">
+    <img src="icon.jpg" alt="See Profile button"height=15px>
+    <span class="button_icon">
+    </span>
+    </button>
+    </a>
+    </p>
+    </p>
+    
+    <p id="p1">
+    <b><center><img src="luna.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+    <p id="p1"> This is the 6th daughter. also my step sister, the one of my favorite because of her cutiest face and smileee ayoo. 
+    <a href="baluna.html">
+    <button type="button" class="button">
+    <img src="icon.jpg" alt="See Profile button"height=15px>
+    <span class="button_icon">
+    </span>
+    </button>
+    </a>
+    </p>
+    </p>
+    
+    <p id="p1">
+    <b><center><img src="kyle.jpg" width="100" height="100" style="border: 3px;"></center></b> 
+    <p id="p1"> This is my Boyfie. My Man, Who always cheer me up when im down and keep fighting with me, support my financial need and helps me in everything.
+    <a href="myman.html">
+    <button type="button" class="button">
+    <img src="icon.jpg" alt="See Profile button"height=15px>
+    <span class="button_icon">
+    </span>
+    </button>
+    </a>
+    </p>
+    </p>
+   <center> 
+    <a href="home.html">
+    <style ="></style>
+    <button type="button" class="button">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDHs7n-RFRjBw32ZVumdwcGhcDvDM4AxwTQ&usqp=CAU" alt="user button"height=50px>
+    <span class="button_icon">
+    </span>
+    </button>
+    </a>
+  <a  href="Final Project.html">
+    <style ="></style>
+    <button type="button" class="button">
+    <img src="fp.jpeg" alt="user button"height=50px>
+    <span class="button_icon">
+    </span>
+    </button>
+    </a>
+    </center>
+    </body>
+    </html>
 
        "Dad"
 
@@ -929,3 +1083,159 @@ body
   
 </body>
 </html>
+
+       THE FINAL PROJECT IN IPT
+
+<!DOCTYPE html>
+<head>
+<title></title>
+<link rel="stylesheet" href="dsgn.css">
+</head>
+ <center>
+ <h1>FINAL PROJECT IN IPT</h1>
+ <h3>Good Day, Have a Nice day!</h3>
+ <p>
+ <center>
+<h5 style="color:black;">KRISTEL ANGELINE DL. ANGUAY</h5>
+ <h5 style="color:balck;">BSIT-2F  </h5>
+ </center>
+ <center><h1 style="border-bottom:5px solid gray;"></h1>
+ </center>
+ <center>
+ <table border="1" width="350px" height="auto">
+ <tbody><tr>
+ <th rowspan="1" style="color:#black;">Final Project</th>
+ <th colspan="1" style="color:#black;">TITLE</th>
+ </tr>
+ <tr>
+ <td style="color:#CC9544;""><a href="https://youtu.be/ndpWNKe_5NI"><style ="></style>
+ <button type="button" class="button">
+ <img src="a1.jpg" alt="user button"height=60px>
+<span class="button_icon">
+ </span>
+ </button>
+ </a></td>
+  <td style="color: red;"> "INTRODUCE YOURSELF" </td>
+ </tr>
+ <tr>
+ <td style="color:#CC9544;"><a href="Second Activity.html"><style ="></style>
+ <button type="button" class="button">
+ <img src="a2.jpg" alt="user button"height=60px>
+ <span class="button_icon">
+ </span>
+ </button>
+ </a></td>
+ <td style="color: red;"> "SECOND ACTIVITY ===(Create A WebPage)===" </td>
+ </tr>
+ <tr>
+ <td style="color:#CC9544;"><a href="3rdAct.html"><style ="></style>
+ <button type="button" class="button">
+ <img src="a3.jpg" alt="user button"height=60px>
+ <span class="button_icon">
+ </span>
+ </button>
+ </a></td>
+ <td style="color: red;"> "THIRD ACTIVITY ===(The CSS)===" </td>
+ </tr>
+ <tr>
+ <td style="color:#CC9544;"><a href="home.html"><style ="></style>
+ <button type="button" class="button">
+ <img src="a4.jpg" alt="user button"height=60px>
+ <span class="button_icon">
+ </span>
+ </button>
+ </a></td>
+ <td style="color: red;"> " 4TH ACTIVITY ===(USER/HOME)===" </td>
+ </tr>
+ <tr>
+ <td style="color:#CC9544;"><a href="myfamily.html"><style ="></style>
+ <button type="button" class="button">
+ <img src="tf.jpg" alt="user button"height=60px>
+ <span class="button_icon">
+ </span>
+ </button>
+ </a></td>
+ <td style="color: red;"> "THE FAMILY" </td>
+ </tr>
+ </tbody>
+ </table>
+ <center>
+ <a href="home.html">
+ <style ="></style>
+ <button type="button" class="button">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDHs7n-RFRjBw32ZVumdwcGhcDvDM4AxwTQ&usqp=CAU" alt="user button"height=50px>
+ <span class="button_icon">
+ </span>
+ </button>
+ </a>
+ </body>
+ </html>
+
+Dsgn.css
+
+body
+{
+     background-image: url('k.jpeg');
+     background-size:cover;
+     background-attachment:fixed;
+ }
+ p
+ {
+     background-color:transparent;
+     font-size:15px
+     color: solid black;
+ }
+ h1
+ {
+ background-color: beige ;
+ color: #BE8C63;
+ font-style: normal;
+ Font-family: Calibre;
+ border-style: double;
+ capacity: 70%;
+ outline-color: transparent;
+ text-shadow: 1px 1px 2px rgb(5, 5, 5);
+ text-align: center;
+ }
+ h2
+ {
+ animation: alternate-reverse;
+ }
+ h3
+ {
+ background-color: lightblue;
+ color: rgb(16, 150, 266);
+ font-style: normal;
+ Font-family: Gill Sans, Calibri, Gill Sans MT, Trebuchet MT;
+ border-style: double;
+ capacity: 50%;
+ outline-color: transparent;
+ text-shadow: 1px 1px 2px rgb(5, 5, 5);
+ text-align: center;
+ }
+ h4
+ {
+ color: rgb(236, 50, 266);
+ font-style: normal;
+ Font-family: Gill Sans, Calibri;
+ border-color: #CC9544;
+ border-style: double;
+ capacity: 50%;
+ border-radius: 0%;
+ outline-color: transparent;
+ text-shadow: 1px 1px 2px rgb(8, 5, 5);
+ border: 3px solid tomato;
+ margin-top: 15px;
+ text-align: center;
+ }
+ h5
+ {
+ color: black;
+ font-style: normal;
+ Font-family: Gill Sans, Calibri;
+ border-color: #CC9544;
+ capacity: 50%;
+ border-radius: 0%;
+ text-shadow: 1px 1px 2px rgb(8, 5, 5);
+ text-align: center;
+ }
